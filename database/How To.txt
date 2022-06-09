@@ -1,0 +1,3 @@
+Create New Database named "laundry"
+
+in database "laundry" click import use laundry.sql
